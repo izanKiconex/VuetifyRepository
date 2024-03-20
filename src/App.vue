@@ -5,6 +5,7 @@
       <BotonCambiaColor />
     </v-main>
     <v-main>
+        <Boton />
       <BotonLoader />
     </v-main>
     <v-main>
